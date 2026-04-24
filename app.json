@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Mindfulness com Leticia",
+    "slug": "mindfulness-com-leticia",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#f6f3ee"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#f6f3ee"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
